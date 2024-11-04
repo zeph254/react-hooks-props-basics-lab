@@ -5,8 +5,13 @@ const user = {
   color: "firebrick",
   links: {
     github: "https://github.com/liza",
-    linkedin: "https://www.linkedin.com/in/liza/",
+    linkedin: "https://www.linkedin.com/in/liza",
+    
   },
 };
+// function user() {
+//   return
+//   <Home props={user}/>
+// }
 
 export default user;
